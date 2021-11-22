@@ -52,3 +52,7 @@ There are 4 options for calculating covariances in GMM:
 4. Spherical: Each distribution has its own single variance
 
 Apart from selecting the covariance type, we need to select the optimal number of clusters in the model as well. I used Silhouette score
+
+Reference: 
+1. https://www.datasklr.com/segmentation-clustering/an-introduction-to-clustering-techniques
+2. https://www.kaggle.com/datafan07/heart-disease-and-some-scikit-learn-magic
